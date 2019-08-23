@@ -1,0 +1,4 @@
+com\tgroup\config\AppConfig.class
+com\tgroup\controller\MainController.class
+com\tgroup\test1\Intializer.class
+com\tgroup\config\ServletConfig.class
